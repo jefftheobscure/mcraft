@@ -1,0 +1,3 @@
+<?php
+$rsteplimit = 100;
+?>

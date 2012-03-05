@@ -2,7 +2,7 @@
 
 <head>
 <title>Munchcraft: Your deliciousness destination!</title>
-<?php include("layouts.php"); ?>
+<?php include("layouts.php");
 </head>
 
 
